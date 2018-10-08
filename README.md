@@ -1,6 +1,9 @@
 # raspberry-pi-logo-cutout
 Cut files for Pi Logo
 
+
+![](https://raw.githubusercontent.com/bortek/raspberry-pi-logo-cutout/master/IMG_20181008_195243.jpg)
+
 There are seperate SVG files for background, green leaves and red dots as well as complete logo SVG file.
 Including Silhouette Studio file ready for cutting from Cameo cutter.
 
